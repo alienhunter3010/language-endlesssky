@@ -1,0 +1,5 @@
+'.source.txt':
+  'editor':
+    'autoIndentOnPaste': false
+    'commentStart': '# '
+    'tabType': 'soft'
