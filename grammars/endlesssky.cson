@@ -68,6 +68,6 @@
       }
       {
         'match': '[^<>]*'
-        'name': 'string.unquoted.yaml'
+        'name': 'string.unquoted.endlesssky'
       }
     ]

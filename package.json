@@ -1,19 +1,19 @@
 {
-  "name": "language-yaml",
+  "name": "language-endlesssky",
   "version": "0.32.0",
-  "description": "YAML language support in Atom",
+  "description": "Endless Sky syntax support in Atom",
   "engines": {
     "atom": "*",
     "node": "*"
   },
-  "homepage": "http://atom.github.io/language-yaml",
+  "homepage": "https://github.com/alienhunter3010/language-endlesssky",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-yaml.git"
+    "url": "https://github.com/alienhunter3010/language-endlesssky.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-yaml/issues"
+    "url": "https://github.com/alienhunter3010/language-endlesssky/issues"
   },
   "devDependencies": {
     "coffeelint": "^1.10.1"
